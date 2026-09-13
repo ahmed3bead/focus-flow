@@ -1,0 +1,7 @@
+{
+  "name": "focus-flow",
+  "version": "0.1.0",
+  "description": "Action-first, focus-friendly output in English, Modern Standard Arabic, or Egyptian Arabic.",
+  "author": {"name": "Ahmed Ebead"},
+  "license": "MIT"
+}

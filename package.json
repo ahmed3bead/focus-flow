@@ -1,0 +1,7 @@
+{
+  "name": "focus-flow",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Focus-friendly AI responses in English, Modern Standard Arabic, and Egyptian Arabic.",
+  "license": "MIT"
+}

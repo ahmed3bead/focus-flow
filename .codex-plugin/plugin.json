@@ -1,0 +1,19 @@
+{
+  "name": "focus-flow",
+  "version": "0.1.0",
+  "description": "Action-first, focus-friendly responses that automatically mirror English, Modern Standard Arabic, or Egyptian Arabic.",
+  "author": {
+    "name": "Ahmed Ebead"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Focus Flow | مسار التركيز",
+    "shortDescription": "Clear next actions in English or Arabic",
+    "longDescription": "Shape responses for easier execution: lead with the next action, limit visible choices, preserve state, and automatically mirror English, Modern Standard Arabic, or Egyptian Arabic.",
+    "developerName": "Ahmed Ebead",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "defaultPrompt": "Use Focus Flow for this task and match my language and Arabic register automatically."
+  }
+}

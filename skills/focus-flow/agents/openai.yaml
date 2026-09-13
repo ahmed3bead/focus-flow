@@ -1,0 +1,7 @@
+interface:
+  display_name: "Focus Flow | مسار التركيز"
+  short_description: "Clear next actions in English or Arabic"
+  default_prompt: "Use $focus-flow and match my language and Arabic register automatically."
+
+policy:
+  allow_implicit_invocation: false
