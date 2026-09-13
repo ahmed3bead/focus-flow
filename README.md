@@ -1,4 +1,4 @@
-# Focus Flow | مسار التركيز
+# Focus Flow
 
 Action-first AI responses in English, Modern Standard Arabic, or Egyptian Arabic.
 
