@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "focus-flow",
+  "description": "Action-first, focus-friendly output in English, Modern Standard Arabic, or Egyptian Arabic.",
+  "owner": {
+    "name": "Ahmed Ebead"
+  },
+  "plugins": [
+    {
+      "name": "focus-flow",
+      "description": "Clear next actions with automatic English, formal Arabic, or Egyptian Arabic matching.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
